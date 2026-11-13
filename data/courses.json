@@ -1,4 +1,13 @@
 {
-    "courses": [],
-    "next_id": 5
+    "courses": [
+        {
+            "id": 5,
+            "name": "OpenClaw",
+            "description": "Something",
+            "target_date": "2026-12-24",
+            "status": "In Progress",
+            "created_at": "2026-11-13 18:49:25"
+        }
+    ],
+    "next_id": 6
 }
